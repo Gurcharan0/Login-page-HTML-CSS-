@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(collage\ image.jpeg);
+    background-size: cover;
+}
+div{
+    margin-top: 200px;
+    padding: 100px;
+    justify-content: center;
+    text-align: center;
+    width: 300px;
+    margin-left: 500px;
+}
+.background image{
+    background-image: url(/collage\ image.jpeg);
+}
